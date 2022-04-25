@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bestbynature
 - 👀 I’m interested in web development and programming
 - 🌱 I’m currently learning different tools to make my goals achievable
-- 💞️ I’m looking to collaborate on projects as they unfold
+- 💞️ I’m hoping to collaborate with anyone who can help to mentor and put me through this maze
 - 📫 How to reach me bestbynature2010@gmail.com
 
 <!---
