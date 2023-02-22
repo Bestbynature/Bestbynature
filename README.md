@@ -42,5 +42,7 @@ Here are some ideas to get you started:
 <p align="center">
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bestbynature&theme=tokyonight)
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Bestbynature)](https://git.io/streak-stats)
 
 </p>
