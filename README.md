@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... advanced JavaScript
-- 🌱 I’m currently a full stack developer at Microverse
+- 🌱 I’m a frontend dev who's currently learning full stack development at Microverse
 - 👯 I’m looking to collaborate on open source projects
 <!--- 🤔 I’m looking for help with ...-->
 <!-- 💬 Ask me about ... -->
