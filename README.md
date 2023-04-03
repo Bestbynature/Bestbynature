@@ -1,22 +1,27 @@
 ### Hi there 👋
+ 
+My name is Damilare and I am currently honing my skills to become a full Stack Developer at Microverse.  
 
+<!--**Bestbynature/Bestbynature** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+<!-- Here are some ideas to get you started: -->
 
-**Bestbynature/Bestbynature** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... advanced JavaScript
+- 🔭 I’m currently working on advanced JavaScript
 - 🌱 I’m a frontend dev who's currently learning full stack development at Microverse
-- 👯 I’m looking to collaborate on open source projects
+- 👯 I’m looking to collaborate on open source projects / front-end developer roles/ junior full stack developer roles
 <!--- 🤔 I’m looking for help with ...-->
-<!-- 💬 Ask me about ... -->
+- 💬 Ask me about = {
+movies: ['Prison Break', 'Nikita', 'gifted hands'],
+Books: ['who moved my cheese', 'gifted hands']}
 - 📫 How to reach me: ... [Twitter](https://twitter.com/Dammybest) | [Whatsapp click to chat](https://wa.me/?text=From%20github%20.%20Let's%20connect%20professionally.)
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I feel better by solving problems
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I feel better when I solve problems.concat('I have one year remote work experience with developers from all over the world')
 
+
+ ![giphy](https://user-images.githubusercontent.com/104390780/229511980-0fbcfc30-7f4f-424a-887a-99f7b3dcd0d1.gif)
 
 ## 🧰 Languages and Tools:
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="40" style="vertical-align:top; margin:4px">
