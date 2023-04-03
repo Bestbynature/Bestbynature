@@ -1,5 +1,6 @@
-### Hi there 👋
- 
+### Hi there 👋 
+<!-- <p align="center"> Hi there 👋
+ <img src="https://user-images.githubusercontent.com/104390780/229516315-6848815d-51e0-4f90-bbca-161c2ec01828.gif" alt="funny cup" style="width:100px;"/></p> -->
 My name is Damilare and I am currently honing my skills to become a full Stack Developer at Microverse.  
 
 <!--**Bestbynature/Bestbynature** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -17,8 +18,8 @@ Books: ['who moved my cheese', 'gifted hands']}
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I feel better when I solve problems.concat('I have one year remote work experience with developers from all over the world')
 
-
- ![giphy](https://user-images.githubusercontent.com/104390780/229511980-0fbcfc30-7f4f-424a-887a-99f7b3dcd0d1.gif)
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/104390780/229511980-0fbcfc30-7f4f-424a-887a-99f7b3dcd0d1.gif" alt="funny cup" style="width:300px;"/><p>
 
 ## 🧰 Languages and Tools:
 
