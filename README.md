@@ -25,9 +25,9 @@ My name is Damilare and I am currently honing my skills to become a full Stack D
     <li>💬 Ask me about = {
         movies: ['Prison Break', 'Nikita', 'gifted hands'],
         Books: ['who moved my cheese', 'gifted hands']}</li>
-    <li>📫 How to reach me: ... [Twitter](https://twitter.com/Dammybest) | [Whatsapp click to chat](https://wa.me/?text=From%20github%20.%20Let's%20connect%20professionally.)</li>
+    <li>📫 How to reach me: ... <a href="https://twitter.com/Dammybest">Twitter</a> | <a href="https://wa.me/?text=From%20github%20.%20Let's%20connect%20professionally.">Whatsapp click to chat</a></li>
     <li>😄 Pronouns: he/him</li>
-    <li>⚡ Fun fact: I feel better when I solve problems.concat('I have one year remote work experience with developers from all over the world')</li>>
+    <li>⚡ Fun fact: I feel better when I solve problems.concat('I have one year remote work experience with developers from all over the world')</li>
 </ul> 
 
  </td>
