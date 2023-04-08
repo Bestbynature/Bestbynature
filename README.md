@@ -20,7 +20,7 @@
 <div align="center">
 <table>
 <tr>
-  <td><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/></td>
+  <td><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="550" height="300"/></td>
   <td>
      <h3 align="center">Programming joke of the day</h3>
       <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
