@@ -25,7 +25,6 @@
      <h3 align="center">Programming joke of the day</h3>
       <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
       <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes Card" />
-
   </td>
 </tr>
 </table>
@@ -39,9 +38,9 @@
 </div>
                                                                                                                              
 
-<!--### Hi there 👋 -->
+<!--###  -->
 
-My name is Damilare and I am currently honing my skills to become a full Stack Developer at Microverse.  
+Hi there 👋! My name is Damilare and I am currently honing my skills to become a full Stack Developer at Microverse.  
 ---
 <table>
     <tr>
