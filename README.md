@@ -20,7 +20,7 @@
 <div align="center">
 <table>
 <tr>
-  <td><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="550" height="350"/></td>
+  <td><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="550" height="351"/></td>
   <td>
      <h3 align="center">Programming joke of the day</h3>
       <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
@@ -33,7 +33,7 @@
 
 <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="31px"/>
 </h1>
 </div>
                                                                                                                              
