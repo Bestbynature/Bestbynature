@@ -1,5 +1,13 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div align="center">
+    <table>
+      <tr border="none">
+        <td align="center"><img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/3fa71c25-bd9b-46a2-a0c2-e9379df2e239" width="100%" /></td>
+        <td> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></td>
+       </tr>
+    </table>
+    </div>
+ 
   <div id="badges">
   <a href="https://www.linkedin.com/in/damilare-ismaila-4a5a8b30/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -75,6 +83,7 @@ Hi there 👋! My name is Damilare and I am currently honing my skills to become
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="40" title="reactjs" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" height="40" title="redux" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="40" title="html5" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="40" title="CSS3" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" title="Visual Studio Code Editor" style="vertical-align:top; margin:4px">
