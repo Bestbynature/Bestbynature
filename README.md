@@ -110,6 +110,6 @@ Hi there 👋! My name is Damilare and I am currently honing my skills to become
 ---
 | :fire: My GITHUB STATS|FREQUENTLY-USED LANGUAGES|VISITORS|FOLLOWERS|
 |-------------|------|----|---|
-|![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bestbynature&show_icons=true&theme=tokyonight)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bestbynature&theme=tokyonight)|![](https://visitor-badge.laobi.icu/badge?page_id=Bestbynature.Bestbynature) |[![Github](https://img.shields.io/github/followers/Bestbynature?label=Follow&style=social)](https://github.com/Bestbynature)
+|![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bestbynature&show_icons=true&theme=tokyonight)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bestbynature&theme=tokyonight&langs_count=10)|![](https://visitor-badge.laobi.icu/badge?page_id=Bestbynature.Bestbynature) |[![Github](https://img.shields.io/github/followers/Bestbynature?label=Follow&style=social)](https://github.com/Bestbynature)
 
 ---
