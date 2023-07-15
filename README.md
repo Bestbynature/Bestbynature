@@ -39,7 +39,7 @@
 
 <div>
 
-<a href="https://www.credential.net/b18caddf-96ba-42da-8d20-5f98d99c14e7#gs.3688xp">
+<a href="https://www.credential.net/b18caddf-96ba-42da-8d20-5f98d99c14e7">
 <img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/472be336-c38b-4bb5-b380-bdc280e0dc76" width="20%" />
 </a>
 
