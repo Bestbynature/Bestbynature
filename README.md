@@ -37,8 +37,12 @@
 </tr>
 </table>
 
+<div>
 
 <img src="https://www.credential.net/31aa9c61-699c-41db-b8e8-fed66409124c#gs.361ich" />
+  
+</div>
+
 
 <h1>
   hey there
@@ -49,7 +53,7 @@
 
 <!--###  -->
 
-Hi there 👋! My name is Damilare and I am currently honing my skills to become a full Stack Developer at Microverse.  
+Hi there 👋! My name is Damilare and I am a full Stack Developer, trained at Microverse.  
 ---
 <table>
     <tr>
