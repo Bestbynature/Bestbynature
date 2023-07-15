@@ -40,10 +40,10 @@
 <div>
 
 
-<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/472be336-c38b-4bb5-b380-bdc280e0dc76" width="25%" />
-<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/d366275f-272b-4feb-bffb-716ef0bf6606" width="25%" />
-<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/4bd210cf-abce-491e-9097-a913d3581450" width="25%" />
-<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/34bca723-e02d-42f9-a994-62e15633bd14" width="25%" />
+<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/472be336-c38b-4bb5-b380-bdc280e0dc76" width="20%" />
+<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/d366275f-272b-4feb-bffb-716ef0bf6606" width="20%" />
+<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/4bd210cf-abce-491e-9097-a913d3581450" width="20%" />
+<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/34bca723-e02d-42f9-a994-62e15633bd14" width="20%" />
   
 </div>
 
