@@ -66,7 +66,16 @@
 
 <!--###  -->
 
-Hi there 👋! My name is Damilare and I am a full Stack Developer, trained at Microverse.  
+Hi there 👋! My name is Damilare, a passionate Full-Stack Developer with expertise in React, JavaScript and Ruby on Rails. 
+
+#### About Me
+
+As a tech enthusiast, I thrive on building innovative and user-centric web applications. With hands-on experience in both front-end and back-end development, I enjoy crafting seamless and interactive experiences for users. My proficiency in React allows me to create dynamic and responsive user interfaces, while my expertise in Ruby on Rails empowers me to build robust and scalable server-side applications.
+
+#### Professional Compere for Events
+
+In addition to my technical skills, I am also a seasoned professional compere for events. I bring my excellent communication and presentation skills to create engaging and memorable experiences for audiences. Whether it's hosting conferences, workshops, or product launches, I pride myself on ensuring a seamless flow and energizing atmosphere throughout the event.
+
 ---
 <table>
     <tr>
