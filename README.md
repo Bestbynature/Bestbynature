@@ -40,21 +40,21 @@
     
 <div>
 <a href="https://www.credential.net/b18caddf-96ba-42da-8d20-5f98d99c14e7">
-<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/472be336-c38b-4bb5-b380-bdc280e0dc76" width="19%" />
+<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/472be336-c38b-4bb5-b380-bdc280e0dc76" width="18%" />
 </a>
 
 
 
 <a href="https://www.credential.net/7ffa45a2-6d29-4852-82d5-2d21717649af">
-<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/d366275f-272b-4feb-bffb-716ef0bf6606" width="19%" />
+<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/d366275f-272b-4feb-bffb-716ef0bf6606" width="18%" />
 </a>
 
 
 
-<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/4bd210cf-abce-491e-9097-a913d3581450" width="19%" />
-<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/34bca723-e02d-42f9-a994-62e15633bd14" width="19%" />
+<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/4bd210cf-abce-491e-9097-a913d3581450" width="18%" />
+<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/34bca723-e02d-42f9-a994-62e15633bd14" width="18%" />
 
-<img width="19%" alt="rubyonrails" src="https://github.com/Bestbynature/Bestbynature/assets/104390780/a410c306-52ec-400e-bb83-53391c3edbea">
+<img width="18%" alt="rubyonrails" src="https://github.com/Bestbynature/Bestbynature/assets/104390780/a410c306-52ec-400e-bb83-53391c3edbea">
 
   
 </div>
