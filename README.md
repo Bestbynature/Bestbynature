@@ -151,7 +151,7 @@ In addition to my technical skills, I am also a seasoned & professional compere 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" title="git" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-## 🧰 :hammer_and_wrench: Software Development Methodologies
+<!--- ## 🧰 :hammer_and_wrench: Software Development Methodologies
 <p align="center">
   
 </p>
@@ -160,6 +160,7 @@ In addition to my technical skills, I am also a seasoned & professional compere 
 <p align="center">
   
 </p>
+-->
 
 ## 🧰 :hammer_and_wrench: Tools
 <p align="center">
