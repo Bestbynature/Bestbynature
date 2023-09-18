@@ -110,46 +110,46 @@ In addition to my technical skills, I am also a seasoned & professional compere 
                                                                                                                                                
 ## 🧰 :hammer_and_wrench: Programming Languages
 <p align="center">
-   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript" alt="Javascript" height="80" style="vertical-align:top; margin:4px">
 
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="ruby" title="Ruby" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="ruby" title="Ruby" height="80" style="vertical-align:top; margin:4px">
   
-   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" title="TypeScript" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" title="TypeScript" height="80" style="vertical-align:top; margin:4px">
 </p>
 
 ## 🧰 :hammer_and_wrench: Libraries and Frameworks
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="40" title="reactjs" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" height="40" title="redux" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" **alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" alt="rail" title="Rails" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="80" title="reactjs" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" height="80" title="redux" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" **alt="nodejs" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" alt="rail" title="Rails" height="80" style="vertical-align:top; margin:4px">
   
- <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/> --->
+ <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind CSS" alt="Tailwind CSS" width="20" height="20"/> --->
  
 <img width="112" alt="tailwind" src="https://github.com/Bestbynature/Bestbynature/assets/104390780/27b0c780-1919-412b-8f1a-b7d27a7a9b63">
 
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="BootStrap" alt="BootStrap" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby.js" alt="Gatsby" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="BootStrap" alt="BootStrap" width="80" height="80"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="80" height="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby.js" alt="Gatsby" width="80" height="80"/>
   
 </p>
 
 ## 🧰 :hammer_and_wrench: Web Development
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="40" title="html5" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="40" title="CSS3" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="80" title="html5" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="80" title="CSS3" style="vertical-align:top; margin:4px">
 </p>
 
 ## 🧰 :hammer_and_wrench: Database Management
 <p align="center">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" height="40" title="postgresql" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" height="80" title="postgresql" style="vertical-align:top; margin:4px">
 </p>
 
 ## 🧰 :hammer_and_wrench: Operating System
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux" title="linux" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/19d19856-26ba-421b-8236-e08eedfdc147" alt="windows" title="windows" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux" title="linux" height="80" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/19d19856-26ba-421b-8236-e08eedfdc147" alt="windows" title="windows" height="160" width="160" style="vertical-align:top; margin:4px">
 
 
   
@@ -157,38 +157,38 @@ In addition to my technical skills, I am also a seasoned & professional compere 
 
 ## 🧰 :hammer_and_wrench: Version Control
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" title="git" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" title="git" height="80" style="vertical-align:top; margin:4px">
 </p>
 
 ## 🧰 :hammer_and_wrench: Software Development Methodologies
 <p align="center">
 
-<img width="40" alt="tdd" src="https://github.com/Bestbynature/Bestbynature/assets/104390780/63953fcb-2613-467a-9abc-47197f2321ff">
-<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/1934117e-89d5-4e5e-9c2e-226ac3f84e97" title="Agile" alt="Agile" width="40" height="40"/>
+<img width="80" alt="tdd" src="https://github.com/Bestbynature/Bestbynature/assets/104390780/63953fcb-2613-467a-9abc-47197f2321ff">
+<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/1934117e-89d5-4e5e-9c2e-226ac3f84e97" title="Agile" alt="Agile" width="80" height="80"/>
   
 </p>
 
 ## 🧰 :hammer_and_wrench: Developer Tools
 <p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" title="Azure" height="40" style="vertical-align:top; margin:4px">
- <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" title="vscode" height="40" style="vertical-align:top; margin:4px">
- <img src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original.svg" alt="rspec" title="Rspec" height="40" style="vertical-align:top; margin:4px">
- <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="selenium" title="Selenium" height="40" style="vertical-align:top; margin:4px">
- <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" title="vscode" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="80" height="80"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" title="Azure" height="80" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" title="vscode" height="80" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original.svg" alt="rspec" title="Rspec" height="80" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="selenium" title="Selenium" height="80" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" title="vscode" height="80" style="vertical-align:top; margin:4px">
 
   
 </p>
 
 ## 🧰 :hammer_and_wrench: Tools
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" title="Visual Studio Code Editor" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash" title="Bash" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
-  <img src=" https://github.com/devicons/devicon/blob/master/icons/behance/behance-plain.svg" alt="behance" title="behance" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="webpack" title="webpack" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="80" title="Visual Studio Code Editor" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash" title="Bash" height="80" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="80" height="80"/>
+  <img src=" https://github.com/devicons/devicon/blob/master/icons/behance/behance-plain.svg" alt="behance" title="behance" height="80" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="webpack" title="webpack" height="80" style="vertical-align:top; margin:4px">
 
-<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/12e8a17a-e4ba-4b8c-bef9-97fd07d844e3" alt="webpack" title="webpack" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/12e8a17a-e4ba-4b8c-bef9-97fd07d844e3" alt="webpack" title="webpack" height="80" style="vertical-align:top; margin:4px">
   
 </p>
 
