@@ -123,7 +123,12 @@ In addition to my technical skills, I am also a seasoned & professional compere 
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" height="40" title="redux" style="vertical-align:top; margin:4px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" **alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" alt="rail" title="Rails" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
+  
+ <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/> --->
+ 
+<img width="112" alt="tailwind" src="https://github.com/Bestbynature/Bestbynature/assets/104390780/27b0c780-1919-412b-8f1a-b7d27a7a9b63">
+
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="BootStrap" alt="BootStrap" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby.js" alt="Gatsby" width="40" height="40"/>
@@ -155,13 +160,13 @@ In addition to my technical skills, I am also a seasoned & professional compere 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" title="git" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-<!--- ## 🧰 :hammer_and_wrench: Software Development Methodologies
+## 🧰 :hammer_and_wrench: Software Development Methodologies
 <p align="center">
 
 <img width="40" alt="tdd" src="https://github.com/Bestbynature/Bestbynature/assets/104390780/63953fcb-2613-467a-9abc-47197f2321ff">
-<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/1934117e-89d5-4e5e-9c2e-226ac3f84e97" title="Jest" alt="Jest" width="40" height="40"/>
+<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/1934117e-89d5-4e5e-9c2e-226ac3f84e97" title="Agile" alt="Agile" width="40" height="40"/>
   
-</p> -->
+</p>
 
 ## 🧰 :hammer_and_wrench: Developer Tools
 <p align="center">
@@ -182,6 +187,8 @@ In addition to my technical skills, I am also a seasoned & professional compere 
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
   <img src=" https://github.com/devicons/devicon/blob/master/icons/behance/behance-plain.svg" alt="behance" title="behance" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="webpack" title="webpack" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/12e8a17a-e4ba-4b8c-bef9-97fd07d844e3" alt="webpack" title="webpack" height="40" style="vertical-align:top; margin:4px">
   
 </p>
 
