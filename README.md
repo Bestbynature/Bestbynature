@@ -163,8 +163,8 @@ In addition to my technical skills, I am also a seasoned & professional compere 
 ## 🧰 :hammer_and_wrench: Software Development Methodologies
 <p align="center">
 
-<img width="150" height="120" alt="tdd" src="https://github.com/Bestbynature/Bestbynature/assets/104390780/63953fcb-2613-467a-9abc-47197f2321ff">
-<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/1934117e-89d5-4e5e-9c2e-226ac3f84e97" title="Agile" alt="Agile" width="150" height="120"/>
+<img width="200" height="120" alt="tdd" src="https://github.com/Bestbynature/Bestbynature/assets/104390780/63953fcb-2613-467a-9abc-47197f2321ff">
+<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/1934117e-89d5-4e5e-9c2e-226ac3f84e97" title="Agile" alt="Agile" width="200" height="120"/>
   
 </p>
 
