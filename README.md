@@ -163,8 +163,8 @@ In addition to my technical skills, I am also a seasoned & professional compere 
 ## 🧰 :hammer_and_wrench: Software Development Methodologies
 <p align="center">
 
-<img width="80" alt="tdd" src="https://github.com/Bestbynature/Bestbynature/assets/104390780/63953fcb-2613-467a-9abc-47197f2321ff">
-<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/1934117e-89d5-4e5e-9c2e-226ac3f84e97" title="Agile" alt="Agile" width="80" height="80"/>
+<img width="120" height="120" alt="tdd" src="https://github.com/Bestbynature/Bestbynature/assets/104390780/63953fcb-2613-467a-9abc-47197f2321ff">
+<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/1934117e-89d5-4e5e-9c2e-226ac3f84e97" title="Agile" alt="Agile" width="120" height="120"/>
   
 </p>
 
@@ -174,10 +174,7 @@ In addition to my technical skills, I am also a seasoned & professional compere 
  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" title="Azure" height="80" style="vertical-align:top; margin:4px">
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" title="vscode" height="80" style="vertical-align:top; margin:4px">
  <img src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original.svg" alt="rspec" title="Rspec" height="80" style="vertical-align:top; margin:4px">
- <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="selenium" title="Selenium" height="80" style="vertical-align:top; margin:4px">
- <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" title="vscode" height="80" style="vertical-align:top; margin:4px">
-
-  
+ <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="selenium" title="Selenium" height="80" style="vertical-align:top; margin:4px">  
 </p>
 
 ## 🧰 :hammer_and_wrench: Tools
@@ -185,7 +182,9 @@ In addition to my technical skills, I am also a seasoned & professional compere 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="80" title="Visual Studio Code Editor" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash" title="Bash" height="80" style="vertical-align:top; margin:4px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="80" height="80"/>
-  <img src=" https://github.com/devicons/devicon/blob/master/icons/behance/behance-plain.svg" alt="behance" title="behance" height="80" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/ab96d758-e5e2-421e-b65d-bcce0e114787" alt="behance" title="behance" height="80" style="vertical-align:top; margin:4px">
+
+ 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="webpack" title="webpack" height="80" style="vertical-align:top; margin:4px">
 
 <img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/12e8a17a-e4ba-4b8c-bef9-97fd07d844e3" alt="webpack" title="webpack" height="80" style="vertical-align:top; margin:4px">
