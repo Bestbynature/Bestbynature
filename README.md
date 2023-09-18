@@ -123,9 +123,10 @@ In addition to my technical skills, I am also a seasoned & professional compere 
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" height="40" title="redux" style="vertical-align:top; margin:4px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" **alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" alt="rail" title="Rails" height="40" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="BootStrap" alt="BootStrap" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby.js" alt="Gatsby" width="40" height="40"/>
   
 </p>
 
@@ -143,7 +144,10 @@ In addition to my technical skills, I am also a seasoned & professional compere 
 ## 🧰 :hammer_and_wrench: Operating System
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux" title="linux" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original-wordmark.svg" alt="windows" title="windows" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/19d19856-26ba-421b-8236-e08eedfdc147" alt="windows" title="windows" height="40" style="vertical-align:top; margin:4px">
+
+
+  
 </p>
 
 ## 🧰 :hammer_and_wrench: Version Control
@@ -153,14 +157,23 @@ In addition to my technical skills, I am also a seasoned & professional compere 
 
 <!--- ## 🧰 :hammer_and_wrench: Software Development Methodologies
 <p align="center">
+
+<img width="40" alt="tdd" src="https://github.com/Bestbynature/Bestbynature/assets/104390780/63953fcb-2613-467a-9abc-47197f2321ff">
+<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/1934117e-89d5-4e5e-9c2e-226ac3f84e97" title="Jest" alt="Jest" width="40" height="40"/>
   
-</p>
+</p> -->
 
 ## 🧰 :hammer_and_wrench: Developer Tools
 <p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" title="Azure" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" title="vscode" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original.svg" alt="rspec" title="Rspec" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="selenium" title="Selenium" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" title="vscode" height="40" style="vertical-align:top; margin:4px">
+
   
 </p>
--->
 
 ## 🧰 :hammer_and_wrench: Tools
 <p align="center">
