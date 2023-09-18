@@ -163,8 +163,8 @@ In addition to my technical skills, I am also a seasoned & professional compere 
 ## 🧰 :hammer_and_wrench: Software Development Methodologies
 <p align="center">
 
-<img width="120" height="120" alt="tdd" src="https://github.com/Bestbynature/Bestbynature/assets/104390780/63953fcb-2613-467a-9abc-47197f2321ff">
-<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/1934117e-89d5-4e5e-9c2e-226ac3f84e97" title="Agile" alt="Agile" width="120" height="120"/>
+<img width="150" height="120" alt="tdd" src="https://github.com/Bestbynature/Bestbynature/assets/104390780/63953fcb-2613-467a-9abc-47197f2321ff">
+<img src="https://github.com/Bestbynature/Bestbynature/assets/104390780/1934117e-89d5-4e5e-9c2e-226ac3f84e97" title="Agile" alt="Agile" width="150" height="120"/>
   
 </p>
 
@@ -172,6 +172,7 @@ In addition to my technical skills, I am also a seasoned & professional compere 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="80" height="80"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" title="Azure" height="80" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="azure" title="Azure" height="80" style="vertical-align:top; margin:4px">
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" title="vscode" height="80" style="vertical-align:top; margin:4px">
  <img src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original.svg" alt="rspec" title="Rspec" height="80" style="vertical-align:top; margin:4px">
  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="selenium" title="Selenium" height="80" style="vertical-align:top; margin:4px">  
