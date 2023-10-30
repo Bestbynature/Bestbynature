@@ -69,7 +69,7 @@
 
 <!--###  -->
 
-Hi there 👋! My name is Damilare, a passionate Full-Stack Developer with expertise in React, JavaScript and Ruby on Rails. 
+Hi there 👋! My name is Damilare, a passionate Full-Stack Developer with expertise in React, Next Js, TypeSript, JavaScript and Ruby on Rails. 
 
 #### About Me
 
@@ -89,8 +89,8 @@ In addition to my technical skills, I am also a seasoned & professional compere 
         <td>
 <div align="center">  <h3> :man_technologist: About Me: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.</h3></div>           
 <ul>
-    <li> :telescope: I’m working as a frontend developer and contributing to frontend and backend for building web applications and learning advanced javaScript.
-    <li> :seedling: Exploring Technical Content Writing.</li>
+    <li> :telescope: I’m working as a frontend developer and contributing to frontend and backend for building web applications and learning advanced JavaScript.
+    <li> :seedling: Exploring Python Programming Language.</li>
     <li> :zap: In my free time, I solve problems(coding challenges) on Hackerrank and read tech articles.</li>
     <li> :mailbox: How to reach me:  <a href="https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white"><a href="https://www.linkedin.com/in/damilare-ismaila-4a5a8b30/">Damilare</a></a> </li>
     <li>🌱 I’m a full-stack dev who's currently polishing my skills </li>
