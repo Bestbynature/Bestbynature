@@ -69,7 +69,7 @@
 
 <!--###  -->
 
-Hi there 👋! My name is Damilare, a passionate Full-Stack Developer with expertise in React, Next Js, TypeSript, JavaScript and Ruby on Rails. 
+Hi there 👋! My name is Damilare, a passionate Full-Stack Developer with expertise in React, Next Js, TypeSript, JavaScript and Ruby on Rails, MongoDB, Express, Node.JS. 
 
 #### About Me
 
