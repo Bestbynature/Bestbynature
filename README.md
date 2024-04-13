@@ -12,9 +12,6 @@
   <a href="https://www.linkedin.com/in/damilare-ismaila-4a5a8b30/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://www.youtube.com/@damilareelijahismaila9195" target="_blank">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" />
-    </a>
     
   <a href="https://www.youtube.com/@damilareelijahismaila9195>
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
@@ -69,8 +66,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="31px"/>
 </h1>
 </div>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bestbynature)](https://git.io/streak-stats)
                                                                                                                              
 
 <!--###  -->
