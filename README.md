@@ -69,7 +69,7 @@
 
 <!--###  -->
 
-Hi there 👋! My name is Damilare, a passionate Full-Stack Developer with expertise in React, Next Js, TypeSript, JavaScript and Ruby on Rails, MongoDB, Express, Node.JS. 
+Hi there 👋! My name is Damilare, a passionate Full-Stack Developer with expertise in React, React-Native, Next Js, TypeSript, JavaScript and Ruby on Rails, MongoDB, Express, Node.JS. 
 
 #### About Me
 
@@ -144,6 +144,11 @@ In addition to my technical skills, I am also a seasoned & professional compere 
 ## 🧰 :hammer_and_wrench: Database Management
 <p align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" height="80" title="postgresql" style="vertical-align:top; margin:4px">
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Mongodb" height="80" title="Mongodb" style="vertical-align:top; margin:4px">
+
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" alt="Mongoose" height="80" title="Mongoose" style="vertical-align:top; margin:4px">
+  
 </p>
 
 ## 🧰 :hammer_and_wrench: Operating System
